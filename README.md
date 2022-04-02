@@ -39,10 +39,15 @@ The following **additional** features are implemented:
 ## Video Walkthrough (GIF)
 
 If you recorded multiple GIFs for all the implemented features, you can add them here:
-![]https://cdn.glitch.global/9dacf4b0-940b-4603-a434-449f77c31f64/lose.gif?v=1648878778810
-![]https://cdn.glitch.global/9dacf4b0-940b-4603-a434-449f77c31f64/win.gif?v=1648879020487
-![]https://cdn.glitch.global/9dacf4b0-940b-4603-a434-449f77c31f64/hardModeBeyondLenTen.gif?v=1648879571502
-![]https://cdn.glitch.global/9dacf4b0-940b-4603-a434-449f77c31f64/hardModeGeneratesDifferentPatterns.gif?v=1648879722539
+
+Game Lost:
+![gameLost](https://cdn.glitch.global/9dacf4b0-940b-4603-a434-449f77c31f64/lose.gif?v=1648878778810)
+Game Won:
+![gameWon](https://cdn.glitch.global/9dacf4b0-940b-4603-a434-449f77c31f64/win.gif?v=1648879020487)
+Hard Mode Goes Beyond Pattern of Length Ten:
+![hardModeBeyondLengthTen](https://cdn.glitch.global/9dacf4b0-940b-4603-a434-449f77c31f64/hardModeBeyondLenTen.gif?v=1648879571502)
+Hard Mode Generates Different Patterns for Each Game:
+![hardModeGeneratesDifferentPatterns](https://cdn.glitch.global/9dacf4b0-940b-4603-a434-449f77c31f64/hardModeGeneratesDifferentPatterns.gif?v=1648879722539)
 
 ## Reflection Questions
 1. If you used any outside resources to help complete your submission (websites, books, people, etc) list them here. 
